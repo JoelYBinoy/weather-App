@@ -1,0 +1,102 @@
+* {
+    background: linear-gradient (105deg, #174ec7, #675cb1)
+}
+
+body {
+
+    background: #222;
+
+}
+
+.root_div {
+
+    background: linear-gradient(105deg, #175fa6, #c7d4e2);
+    height: 1000px;
+}
+
+#search {
+    height: 40px;
+
+}
+
+#card1 {
+    background: transparent;
+    border: none;
+}
+
+
+.city {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.temperature {
+    color: #fff;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.humidity {
+    color: rgb(60, 59, 59);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.wind {
+    color: rgb(60, 59, 59);
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    right: 0;
+}
+
+.subDiv {
+    width: 100%;
+}
+
+#description {
+    font-weight: bold;
+    color: #fff;
+}
+
+
+.humidSpan {
+    color: #ffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.windSpan {
+    color: #ffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.pressure {
+    color: rgb(60, 59, 59);
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.pressureSpan {
+    color: #ffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.country {
+    color: rgb(60, 59, 59);
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    right: 0;
+}
+
+.countrySpan {
+    color: #ffff;
+    font-size: 30px;
+    font-weight: bolder;
+}
